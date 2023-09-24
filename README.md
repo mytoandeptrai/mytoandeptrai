@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 You can find more information about me by searching for mytoandeptrai<br>🔭 I’m currently working on Front-end Developer<br>👨‍💻 Nick name: MyToanDepTrai<br>📫 How to reach me:<br>Facebook<br>Instagram<br>Twitter<br>Linkedin<br>✉ Contact : mytoandn@gmail.com
+💬 You can find more information about me by searching for mytoandeptrai<br>🔭 I’m currently working on Front-end Developer<br>👨‍💻 Nick name: MyToanDepTrai<br>📫 How to reach me:<br>✉ Contact : mytoandn@gmail.com
 
 
 ## 🌐 Socials:
